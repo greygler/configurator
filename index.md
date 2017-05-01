@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Конфигуратор - административная панель для LandingPage
 
 You can use the [editor on GitHub](https://github.com/greygler/configurator/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
