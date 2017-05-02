@@ -1,6 +1,6 @@
 <?php
 /* * * * * * * * * * * * * * * * * * * * * * * 
- *  Configuration v.1.7.0 for LandingPage:   *
+ *  Configuration v.1.9.0 for LandingPage:   *
  *               configurator                *
  *   Last edition by 01.05.2017, 01:43:56    *
  * * * * * * * * * * * * * * * * * * * * * * */

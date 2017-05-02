@@ -4,7 +4,7 @@ $fp1 = fopen('value1.php', 'w+');
 $fp2 = fopen('../config.php', 'w+');
 flock($fp1, LOCK_EX); // Блокирование файла для записи
 flock($fp2, LOCK_EX); // Блокирование файла для записи
-$file_conf="Configuration v.1.7.0 for LandingPage: ";
+$file_conf="Configuration v.1.9.0 for LandingPage: ";
 $last_edit="Last edition by ".date('d.m.Y, h:i:s');
 $create="Created by ConfigLand";
 $power1="Powered by Igor Sayutin";

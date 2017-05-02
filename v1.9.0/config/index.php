@@ -6,7 +6,7 @@
   </head>
   <body>
   <center>
-  <h1>Конфигуратор настроек v.1.7.0 для<br><?= $_SERVER['SERVER_NAME'] ?></h1>
+  <h1>Конфигуратор настроек v.1.9.0 для<br><?= $_SERVER['SERVER_NAME'] ?></h1>
     <form class="form" action="autoring.php" method="POST">
   <fieldset>
     <legend><h2>Авторизуйтесь: </h2></legend>

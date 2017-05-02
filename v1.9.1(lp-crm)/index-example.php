@@ -1,6 +1,8 @@
 <? include ('config.php'); ?>
 
 <head>
+  <title>Конфигуратор - образец ленда</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
 
 
